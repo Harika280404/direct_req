@@ -1,0 +1,7 @@
+for total=> double click on the textfield and write this code.
+$.rawValue = sum(data[*].netwer);
+
+add another row in in table , and merge 3 fields and remaining as numeric.
+
+
+
